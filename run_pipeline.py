@@ -10,6 +10,7 @@ PROJECT = Path(__file__).parent
 PROGRAMS = [
     "smartbudget_analysis.py",
     "invoice_ocr.py",
+    "local_ai_summary.py",
 ]
 
 
