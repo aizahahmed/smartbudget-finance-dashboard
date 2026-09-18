@@ -1,0 +1,2 @@
+source_file,vendor,invoice_number,invoice_date,department,total_amount,payment_method,review_required
+sample_invoice.png,MarketWorks,INV-2045,09/18/2026,Technology,12490.0,Wire,No

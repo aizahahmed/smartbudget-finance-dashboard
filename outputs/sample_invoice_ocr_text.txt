@@ -1,0 +1,17 @@
+SMARTBUDGET SAMPLE INVOICE
+Vendor: MarketWorks
+
+Invoice Number: INV-2045
+
+Invoice Date: 09/18/2026
+
+Department: Technology
+
+Description: Marketing analytics services
+Subtotal: $12,000.00
+
+Tax: $490.00
+
+Total: $12,490.00
+
+Payment Method: Wire
