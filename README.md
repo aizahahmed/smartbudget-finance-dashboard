@@ -47,9 +47,59 @@ Ollama runs a local Llama model that reviews verified analytics results and reco
 
 ### Automated Pipeline
 
-The complete workflow can be run with one command:
+Run the entire workflow with:
 
 ```bash
 python run_pipeline.py
+```
 
+## Project Structure
 
+```text
+smartbudget-finance-dashboard/
+├── data/
+├── invoices/
+├── outputs/
+├── index.html
+├── smartbudget.sql
+├── smartbudget_analysis.py
+├── invoice_ocr.py
+├── local_ai_summary.py
+├── run_pipeline.py
+└── requirements.txt
+```
+
+## Installation
+
+Create and activate a virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Download the local Ollama model:
+
+```bash
+ollama pull llama3.2:3b
+```
+
+Run the complete project:
+
+```bash
+python run_pipeline.py
+```
+
+## Skills Demonstrated
+
+This project demonstrates financial analytics, data cleaning, SQL, machine learning, forecasting, OCR, workflow automation, local AI deployment, dashboard development, Git, and GitHub.
+
+## Disclaimer
+
+All transactions and invoices in this project are fictional and were created for educational and portfolio purposes.
