@@ -1,0 +1,13 @@
+transaction_id,transaction_date,department,category,vendor,budget,actual,status,payment_method,variance,variance_percent,anomaly,anomaly_status,month
+TXN-1028,2026-06-01,Operations,Professional Services,Advisory Partners,446,5198,Over budget,Corporate Card,-4752,10.654708520179373,-1,Review,2026-06
+TXN-1040,2026-08-07,Operations,Software,CloudSuite,6824,10826,Over budget,ACH,-4002,0.5864595545134819,-1,Review,2026-08
+TXN-1044,2026-09-27,Operations,Professional Services,Advisory Partners,3182,10908,Over budget,Corporate Card,-7726,2.4280326838466375,-1,Review,2026-09
+TXN-1050,2026-10-03,Operations,Office Supplies,Office Hub,1424,10159,Over budget,Corporate Card,-8735,6.134129213483146,-1,Review,2026-10
+TXN-1052,2026-11-13,Operations,Professional Services,Advisory Partners,75,2278,Over budget,ACH,-2203,29.373333333333335,-1,Review,2026-11
+TXN-1074,2026-03-12,Technology,Training,SkillPath,346,9197,Over budget,ACH,-8851,25.58092485549133,-1,Review,2026-03
+TXN-1086,2026-06-18,Technology,Office Supplies,Office Hub,416,7742,Over budget,ACH,-7326,17.610576923076923,-1,Review,2026-06
+TXN-1115,2026-11-01,Technology,Payroll,PayServe,129,8864,Over budget,ACH,-8735,67.71317829457364,-1,Review,2026-11
+TXN-1170,2026-10-03,Sales,Utilities,City Power,895,9840,Over budget,ACH,-8945,9.994413407821229,-1,Review,2026-10
+TXN-1181,2026-01-01,Human Resources,Training,SkillPath,420,733,Over budget,Wire,-313,0.7452380952380953,-1,Review,2026-01
+TXN-1198,2026-04-05,Human Resources,Payroll,PayServe,9336,10120,Over budget,Wire,-784,0.08397600685518423,-1,Review,2026-04
+TXN-1215,2026-07-09,Human Resources,Software,CloudSuite,358,1440,Over budget,ACH,-1082,3.022346368715084,-1,Review,2026-07

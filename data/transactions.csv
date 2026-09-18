@@ -1,0 +1,241 @@
+transaction_id,transaction_date,department,category,vendor,budget,actual,status,payment_method,variance,variance_percent,anomaly,anomaly_status,month
+TXN-1001,2026-01-01,Operations,Travel,Metro Travel,7885,7523,Within budget,ACH,362,-0.04590995561192137,1,Normal,2026-01
+TXN-1002,2026-01-06,Operations,Office Supplies,Office Hub,4471,5302,Over budget,Corporate Card,-831,0.185864459852382,1,Normal,2026-01
+TXN-1003,2026-01-11,Operations,Marketing,MarketWorks,8748,6362,Within budget,ACH,2386,-0.27274805669867397,1,Normal,2026-01
+TXN-1004,2026-01-16,Operations,Professional Services,Advisory Partners,7105,8610,Over budget,Corporate Card,-1505,0.21182266009852216,1,Normal,2026-01
+TXN-1005,2026-01-21,Operations,Utilities,City Power,960,7144,Over budget,Corporate Card,-6184,6.441666666666666,1,Normal,2026-01
+TXN-1006,2026-02-26,Operations,Training,SkillPath,9940,6230,Within budget,ACH,3710,-0.3732394366197183,1,Normal,2026-02
+TXN-1007,2026-02-04,Operations,Payroll,PayServe,7755,6294,Within budget,Wire,1461,-0.188394584139265,1,Normal,2026-02
+TXN-1008,2026-02-09,Operations,Software,CloudSuite,8009,3421,Within budget,Corporate Card,4588,-0.5728555375202897,1,Normal,2026-02
+TXN-1009,2026-02-14,Operations,Travel,Metro Travel,1305,347,Within budget,Wire,958,-0.7340996168582375,1,Normal,2026-02
+TXN-1010,2026-02-19,Operations,Office Supplies,Office Hub,4589,4915,Over budget,ACH,-326,0.071039442144258,1,Normal,2026-02
+TXN-1011,2026-03-24,Operations,Marketing,MarketWorks,3778,2415,Within budget,ACH,1363,-0.3607728957120169,1,Normal,2026-03
+TXN-1012,2026-03-02,Operations,Professional Services,Advisory Partners,9442,4598,Within budget,Corporate Card,4844,-0.5130269010802796,1,Normal,2026-03
+TXN-1013,2026-03-07,Operations,Utilities,City Power,6560,9605,Over budget,ACH,-3045,0.4641768292682927,1,Normal,2026-03
+TXN-1014,2026-03-12,Operations,Training,SkillPath,8383,2633,Within budget,ACH,5750,-0.6859119646904449,1,Normal,2026-03
+TXN-1015,2026-03-17,Operations,Payroll,PayServe,4518,656,Within budget,Corporate Card,3862,-0.8548030101814963,1,Normal,2026-03
+TXN-1016,2026-04-22,Operations,Software,CloudSuite,2315,3167,Over budget,ACH,-852,0.36803455723542117,1,Normal,2026-04
+TXN-1017,2026-04-27,Operations,Travel,Metro Travel,5650,3304,Within budget,Wire,2346,-0.41522123893805307,1,Normal,2026-04
+TXN-1018,2026-04-05,Operations,Office Supplies,Office Hub,650,7450,Over budget,ACH,-6800,10.461538461538462,1,Normal,2026-04
+TXN-1019,2026-04-10,Operations,Marketing,MarketWorks,8432,6269,Within budget,ACH,2163,-0.256522770398482,1,Normal,2026-04
+TXN-1020,2026-04-15,Operations,Professional Services,Advisory Partners,6436,8823,Over budget,Corporate Card,-2387,0.3708825357364823,1,Normal,2026-04
+TXN-1021,2026-05-20,Operations,Utilities,City Power,7724,7477,Within budget,Wire,247,-0.03197824961160021,1,Normal,2026-05
+TXN-1022,2026-05-25,Operations,Training,SkillPath,3612,4574,Over budget,ACH,-962,0.2663344407530454,1,Normal,2026-05
+TXN-1023,2026-05-03,Operations,Payroll,PayServe,9890,9162,Within budget,ACH,728,-0.07360970677451972,1,Normal,2026-05
+TXN-1024,2026-05-08,Operations,Software,CloudSuite,9099,1879,Within budget,Wire,7220,-0.7934937905264314,1,Normal,2026-05
+TXN-1025,2026-05-13,Operations,Travel,Metro Travel,7930,256,Within budget,Wire,7674,-0.9677175283732661,1,Normal,2026-05
+TXN-1026,2026-06-18,Operations,Office Supplies,Office Hub,1983,1013,Within budget,Corporate Card,970,-0.4891578416540595,1,Normal,2026-06
+TXN-1027,2026-06-23,Operations,Marketing,MarketWorks,4755,8130,Over budget,Corporate Card,-3375,0.7097791798107256,1,Normal,2026-06
+TXN-1028,2026-06-01,Operations,Professional Services,Advisory Partners,446,5198,Over budget,Corporate Card,-4752,10.654708520179373,-1,Review,2026-06
+TXN-1029,2026-06-06,Operations,Utilities,City Power,1572,1815,Over budget,Corporate Card,-243,0.15458015267175573,1,Normal,2026-06
+TXN-1030,2026-06-11,Operations,Training,SkillPath,6959,5639,Within budget,Corporate Card,1320,-0.18968242563586724,1,Normal,2026-06
+TXN-1031,2026-07-16,Operations,Payroll,PayServe,7588,1714,Within budget,ACH,5874,-0.7741170268845545,1,Normal,2026-07
+TXN-1032,2026-07-21,Operations,Software,CloudSuite,9857,7837,Within budget,ACH,2020,-0.20493050623922085,1,Normal,2026-07
+TXN-1033,2026-07-26,Operations,Travel,Metro Travel,3320,5021,Over budget,ACH,-1701,0.5123493975903615,1,Normal,2026-07
+TXN-1034,2026-07-04,Operations,Office Supplies,Office Hub,3774,4288,Over budget,Wire,-514,0.13619501854795973,1,Normal,2026-07
+TXN-1035,2026-07-09,Operations,Marketing,MarketWorks,4784,3393,Within budget,Corporate Card,1391,-0.2907608695652174,1,Normal,2026-07
+TXN-1036,2026-08-14,Operations,Professional Services,Advisory Partners,1930,7094,Over budget,Corporate Card,-5164,2.675647668393782,1,Normal,2026-08
+TXN-1037,2026-08-19,Operations,Utilities,City Power,1324,4072,Over budget,Corporate Card,-2748,2.0755287009063443,1,Normal,2026-08
+TXN-1038,2026-08-24,Operations,Training,SkillPath,4847,986,Within budget,Wire,3861,-0.7965752011553539,1,Normal,2026-08
+TXN-1039,2026-08-02,Operations,Payroll,PayServe,2312,1328,Within budget,ACH,984,-0.42560553633217996,1,Normal,2026-08
+TXN-1040,2026-08-07,Operations,Software,CloudSuite,6824,10826,Over budget,ACH,-4002,0.5864595545134819,-1,Review,2026-08
+TXN-1041,2026-09-12,Operations,Travel,Metro Travel,4454,10226,Over budget,ACH,-5772,1.2959137853614728,1,Normal,2026-09
+TXN-1042,2026-09-17,Operations,Office Supplies,Office Hub,8484,7875,Within budget,Corporate Card,609,-0.07178217821782178,1,Normal,2026-09
+TXN-1043,2026-09-22,Operations,Marketing,MarketWorks,7135,2992,Within budget,Wire,4143,-0.5806587245970568,1,Normal,2026-09
+TXN-1044,2026-09-27,Operations,Professional Services,Advisory Partners,3182,10908,Over budget,Corporate Card,-7726,2.4280326838466375,-1,Review,2026-09
+TXN-1045,2026-09-05,Operations,Utilities,City Power,8479,8765,Over budget,Corporate Card,-286,0.033730392734992336,1,Normal,2026-09
+TXN-1046,2026-10-10,Operations,Training,SkillPath,8199,8069,Within budget,Wire,130,-0.015855592145383582,1,Normal,2026-10
+TXN-1047,2026-10-15,Operations,Payroll,PayServe,3948,5058,Over budget,ACH,-1110,0.2811550151975684,1,Normal,2026-10
+TXN-1048,2026-10-20,Operations,Software,CloudSuite,2938,3064,Over budget,Corporate Card,-126,0.04288631722260041,1,Normal,2026-10
+TXN-1049,2026-10-25,Operations,Travel,Metro Travel,6953,1085,Within budget,Corporate Card,5868,-0.8439522508269811,1,Normal,2026-10
+TXN-1050,2026-10-03,Operations,Office Supplies,Office Hub,1424,10159,Over budget,Corporate Card,-8735,6.134129213483146,-1,Review,2026-10
+TXN-1051,2026-11-08,Operations,Marketing,MarketWorks,2037,5130,Over budget,Wire,-3093,1.5184094256259204,1,Normal,2026-11
+TXN-1052,2026-11-13,Operations,Professional Services,Advisory Partners,75,2278,Over budget,ACH,-2203,29.373333333333335,-1,Review,2026-11
+TXN-1053,2026-11-18,Operations,Utilities,City Power,8017,3444,Within budget,Wire,4573,-0.570412872645628,1,Normal,2026-11
+TXN-1054,2026-11-23,Operations,Training,SkillPath,6774,6519,Within budget,ACH,255,-0.037643932683790966,1,Normal,2026-11
+TXN-1055,2026-11-01,Operations,Payroll,PayServe,7184,1990,Within budget,Corporate Card,5194,-0.7229955456570156,1,Normal,2026-11
+TXN-1056,2026-12-06,Operations,Software,CloudSuite,7954,9641,Over budget,Corporate Card,-1687,0.21209454362584862,1,Normal,2026-12
+TXN-1057,2026-12-11,Operations,Travel,Metro Travel,4676,8537,Over budget,Wire,-3861,0.8257057313943541,1,Normal,2026-12
+TXN-1058,2026-12-16,Operations,Office Supplies,Office Hub,5795,8097,Over budget,Corporate Card,-2302,0.39723899913718724,1,Normal,2026-12
+TXN-1059,2026-12-21,Operations,Marketing,MarketWorks,1424,4863,Over budget,ACH,-3439,2.4150280898876404,1,Normal,2026-12
+TXN-1060,2026-12-26,Operations,Professional Services,Advisory Partners,1167,7060,Over budget,ACH,-5893,5.049700085689803,1,Normal,2026-12
+TXN-1061,2026-01-01,Technology,Travel,Metro Travel,7653,6682,Within budget,Wire,971,-0.1268783483601202,1,Normal,2026-01
+TXN-1062,2026-01-06,Technology,Office Supplies,Office Hub,8300,5593,Within budget,ACH,2707,-0.326144578313253,1,Normal,2026-01
+TXN-1063,2026-01-11,Technology,Marketing,MarketWorks,1299,1923,Over budget,ACH,-624,0.48036951501154734,1,Normal,2026-01
+TXN-1064,2026-01-16,Technology,Professional Services,Advisory Partners,5132,7739,Over budget,ACH,-2607,0.5079890880748247,1,Normal,2026-01
+TXN-1065,2026-01-21,Technology,Utilities,City Power,1006,6885,Over budget,Wire,-5879,5.843936381709741,1,Normal,2026-01
+TXN-1066,2026-02-26,Technology,Training,SkillPath,6226,7112,Over budget,ACH,-886,0.1423064567940893,1,Normal,2026-02
+TXN-1067,2026-02-04,Technology,Payroll,PayServe,2605,1261,Within budget,Corporate Card,1344,-0.5159309021113244,1,Normal,2026-02
+TXN-1068,2026-02-09,Technology,Software,CloudSuite,6108,1191,Within budget,Corporate Card,4917,-0.8050098231827112,1,Normal,2026-02
+TXN-1069,2026-02-14,Technology,Travel,Metro Travel,6734,8927,Over budget,Corporate Card,-2193,0.32566082566082566,1,Normal,2026-02
+TXN-1070,2026-02-19,Technology,Office Supplies,Office Hub,7119,3826,Within budget,Wire,3293,-0.46256496698974575,1,Normal,2026-02
+TXN-1071,2026-03-24,Technology,Marketing,MarketWorks,998,2896,Over budget,Wire,-1898,1.9018036072144289,1,Normal,2026-03
+TXN-1072,2026-03-02,Technology,Professional Services,Advisory Partners,8484,4702,Within budget,Corporate Card,3782,-0.44578029231494576,1,Normal,2026-03
+TXN-1073,2026-03-07,Technology,Utilities,City Power,2132,6380,Over budget,Wire,-4248,1.9924953095684803,1,Normal,2026-03
+TXN-1074,2026-03-12,Technology,Training,SkillPath,346,9197,Over budget,ACH,-8851,25.58092485549133,-1,Review,2026-03
+TXN-1075,2026-03-17,Technology,Payroll,PayServe,5139,2757,Within budget,Wire,2382,-0.46351430239346175,1,Normal,2026-03
+TXN-1076,2026-04-22,Technology,Software,CloudSuite,3436,8901,Over budget,Corporate Card,-5465,1.5905122235157159,1,Normal,2026-04
+TXN-1077,2026-04-27,Technology,Travel,Metro Travel,7686,239,Within budget,Wire,7447,-0.968904501691387,1,Normal,2026-04
+TXN-1078,2026-04-05,Technology,Office Supplies,Office Hub,7486,5344,Within budget,Wire,2142,-0.2861341170184344,1,Normal,2026-04
+TXN-1079,2026-04-10,Technology,Marketing,MarketWorks,2937,6102,Over budget,Wire,-3165,1.0776302349336058,1,Normal,2026-04
+TXN-1080,2026-04-15,Technology,Professional Services,Advisory Partners,8826,1019,Within budget,Wire,7807,-0.8845456605483798,1,Normal,2026-04
+TXN-1081,2026-05-20,Technology,Utilities,City Power,2695,1351,Within budget,Corporate Card,1344,-0.4987012987012987,1,Normal,2026-05
+TXN-1082,2026-05-25,Technology,Training,SkillPath,4771,4034,Within budget,ACH,737,-0.15447495284007545,1,Normal,2026-05
+TXN-1083,2026-05-03,Technology,Payroll,PayServe,2371,9300,Over budget,Corporate Card,-6929,2.9223956136651204,1,Normal,2026-05
+TXN-1084,2026-05-08,Technology,Software,CloudSuite,8670,5737,Within budget,ACH,2933,-0.3382929642445213,1,Normal,2026-05
+TXN-1085,2026-05-13,Technology,Travel,Metro Travel,1525,8980,Over budget,Wire,-7455,4.888524590163934,1,Normal,2026-05
+TXN-1086,2026-06-18,Technology,Office Supplies,Office Hub,416,7742,Over budget,ACH,-7326,17.610576923076923,-1,Review,2026-06
+TXN-1087,2026-06-23,Technology,Marketing,MarketWorks,4030,4498,Over budget,ACH,-468,0.11612903225806452,1,Normal,2026-06
+TXN-1088,2026-06-01,Technology,Professional Services,Advisory Partners,9192,7553,Within budget,ACH,1639,-0.17830722367275892,1,Normal,2026-06
+TXN-1089,2026-06-06,Technology,Utilities,City Power,8259,172,Within budget,Corporate Card,8087,-0.9791742341687856,1,Normal,2026-06
+TXN-1090,2026-06-11,Technology,Training,SkillPath,6934,1050,Within budget,Corporate Card,5884,-0.8485722526680127,1,Normal,2026-06
+TXN-1091,2026-07-16,Technology,Payroll,PayServe,8251,7983,Within budget,Wire,268,-0.03248091140467822,1,Normal,2026-07
+TXN-1092,2026-07-21,Technology,Software,CloudSuite,8275,7669,Within budget,Corporate Card,606,-0.07323262839879154,1,Normal,2026-07
+TXN-1093,2026-07-26,Technology,Travel,Metro Travel,4806,2239,Within budget,ACH,2567,-0.5341240116521015,1,Normal,2026-07
+TXN-1094,2026-07-04,Technology,Office Supplies,Office Hub,2926,5108,Over budget,ACH,-2182,0.745727956254272,1,Normal,2026-07
+TXN-1095,2026-07-09,Technology,Marketing,MarketWorks,7151,5833,Within budget,ACH,1318,-0.1843098867291288,1,Normal,2026-07
+TXN-1096,2026-08-14,Technology,Professional Services,Advisory Partners,6128,8352,Over budget,Corporate Card,-2224,0.3629242819843342,1,Normal,2026-08
+TXN-1097,2026-08-19,Technology,Utilities,City Power,3461,5805,Over budget,Wire,-2344,0.6772609072522392,1,Normal,2026-08
+TXN-1098,2026-08-24,Technology,Training,SkillPath,875,3971,Over budget,Corporate Card,-3096,3.5382857142857143,1,Normal,2026-08
+TXN-1099,2026-08-02,Technology,Payroll,PayServe,6917,3601,Within budget,Wire,3316,-0.4793985832008096,1,Normal,2026-08
+TXN-1100,2026-08-07,Technology,Software,CloudSuite,2431,4099,Over budget,ACH,-1668,0.686137392019745,1,Normal,2026-08
+TXN-1101,2026-09-12,Technology,Travel,Metro Travel,8677,6275,Within budget,ACH,2402,-0.2768237870231647,1,Normal,2026-09
+TXN-1102,2026-09-17,Technology,Office Supplies,Office Hub,2232,8349,Over budget,Wire,-6117,2.7405913978494625,1,Normal,2026-09
+TXN-1103,2026-09-22,Technology,Marketing,MarketWorks,1137,4369,Over budget,ACH,-3232,2.8425681618293757,1,Normal,2026-09
+TXN-1104,2026-09-27,Technology,Professional Services,Advisory Partners,7698,2385,Within budget,ACH,5313,-0.6901792673421668,1,Normal,2026-09
+TXN-1105,2026-09-05,Technology,Utilities,City Power,1420,2278,Over budget,Corporate Card,-858,0.604225352112676,1,Normal,2026-09
+TXN-1106,2026-10-10,Technology,Training,SkillPath,1660,7180,Over budget,Wire,-5520,3.325301204819277,1,Normal,2026-10
+TXN-1107,2026-10-15,Technology,Payroll,PayServe,5552,7859,Over budget,Wire,-2307,0.4155259365994236,1,Normal,2026-10
+TXN-1108,2026-10-20,Technology,Software,CloudSuite,8100,1013,Within budget,ACH,7087,-0.8749382716049383,1,Normal,2026-10
+TXN-1109,2026-10-25,Technology,Travel,Metro Travel,1819,641,Within budget,Wire,1178,-0.6476085761407366,1,Normal,2026-10
+TXN-1110,2026-10-03,Technology,Office Supplies,Office Hub,2874,5721,Over budget,Wire,-2847,0.9906054279749478,1,Normal,2026-10
+TXN-1111,2026-11-08,Technology,Marketing,MarketWorks,7201,1407,Within budget,Wire,5794,-0.8046104707679489,1,Normal,2026-11
+TXN-1112,2026-11-13,Technology,Professional Services,Advisory Partners,9001,7937,Within budget,Wire,1064,-0.11820908787912454,1,Normal,2026-11
+TXN-1113,2026-11-18,Technology,Utilities,City Power,4638,2987,Within budget,ACH,1651,-0.35597240189736956,1,Normal,2026-11
+TXN-1114,2026-11-23,Technology,Training,SkillPath,1333,1385,Over budget,Wire,-52,0.03900975243810953,1,Normal,2026-11
+TXN-1115,2026-11-01,Technology,Payroll,PayServe,129,8864,Over budget,ACH,-8735,67.71317829457364,-1,Review,2026-11
+TXN-1116,2026-12-06,Technology,Software,CloudSuite,2127,1593,Within budget,Wire,534,-0.25105782792665726,1,Normal,2026-12
+TXN-1117,2026-12-11,Technology,Travel,Metro Travel,1221,2740,Over budget,Corporate Card,-1519,1.244062244062244,1,Normal,2026-12
+TXN-1118,2026-12-16,Technology,Office Supplies,Office Hub,6277,1478,Within budget,Wire,4799,-0.7645371992990282,1,Normal,2026-12
+TXN-1119,2026-12-21,Technology,Marketing,MarketWorks,1128,1112,Within budget,Corporate Card,16,-0.014184397163120567,1,Normal,2026-12
+TXN-1120,2026-12-26,Technology,Professional Services,Advisory Partners,4690,204,Within budget,Corporate Card,4486,-0.956503198294243,1,Normal,2026-12
+TXN-1121,2026-01-01,Sales,Professional Services,Advisory Partners,7332,9171,Over budget,ACH,-1839,0.25081833060556463,1,Normal,2026-01
+TXN-1122,2026-01-06,Sales,Utilities,City Power,1266,1179,Within budget,Corporate Card,87,-0.06872037914691943,1,Normal,2026-01
+TXN-1123,2026-01-11,Sales,Training,SkillPath,5045,1153,Within budget,Wire,3892,-0.7714568880079287,1,Normal,2026-01
+TXN-1124,2026-01-16,Sales,Payroll,PayServe,4840,864,Within budget,ACH,3976,-0.8214876033057851,1,Normal,2026-01
+TXN-1125,2026-01-21,Sales,Software,CloudSuite,8071,6479,Within budget,ACH,1592,-0.19724941147317557,1,Normal,2026-01
+TXN-1126,2026-02-26,Sales,Travel,Metro Travel,4356,4123,Within budget,ACH,233,-0.053489439853076214,1,Normal,2026-02
+TXN-1127,2026-02-04,Sales,Office Supplies,Office Hub,3624,7626,Over budget,ACH,-4002,1.1043046357615893,1,Normal,2026-02
+TXN-1128,2026-02-09,Sales,Marketing,MarketWorks,6019,6611,Over budget,ACH,-592,0.09835520850639641,1,Normal,2026-02
+TXN-1129,2026-02-14,Sales,Professional Services,Advisory Partners,2508,3286,Over budget,Wire,-778,0.310207336523126,1,Normal,2026-02
+TXN-1130,2026-02-19,Sales,Utilities,City Power,1315,8847,Over budget,Corporate Card,-7532,5.727756653992396,1,Normal,2026-02
+TXN-1131,2026-03-24,Sales,Training,SkillPath,4498,7510,Over budget,Wire,-3012,0.6696309470875945,1,Normal,2026-03
+TXN-1132,2026-03-02,Sales,Payroll,PayServe,3924,2664,Within budget,Wire,1260,-0.3211009174311927,1,Normal,2026-03
+TXN-1133,2026-03-07,Sales,Software,CloudSuite,2189,3587,Over budget,Wire,-1398,0.6386477843764276,1,Normal,2026-03
+TXN-1134,2026-03-12,Sales,Travel,Metro Travel,3459,3097,Within budget,ACH,362,-0.10465452442902573,1,Normal,2026-03
+TXN-1135,2026-03-17,Sales,Office Supplies,Office Hub,3448,1552,Within budget,ACH,1896,-0.5498839907192575,1,Normal,2026-03
+TXN-1136,2026-04-22,Sales,Marketing,MarketWorks,3082,1455,Within budget,Wire,1627,-0.5279039584685269,1,Normal,2026-04
+TXN-1137,2026-04-27,Sales,Professional Services,Advisory Partners,3571,9219,Over budget,ACH,-5648,1.581629795575469,1,Normal,2026-04
+TXN-1138,2026-04-05,Sales,Utilities,City Power,6454,4313,Within budget,ACH,2141,-0.3317322590641463,1,Normal,2026-04
+TXN-1139,2026-04-10,Sales,Training,SkillPath,2794,3775,Over budget,Wire,-981,0.35110952040085897,1,Normal,2026-04
+TXN-1140,2026-04-15,Sales,Payroll,PayServe,8930,7186,Within budget,Wire,1744,-0.19529675251959686,1,Normal,2026-04
+TXN-1141,2026-05-20,Sales,Software,CloudSuite,8624,5446,Within budget,Wire,3178,-0.3685064935064935,1,Normal,2026-05
+TXN-1142,2026-05-25,Sales,Travel,Metro Travel,4526,9220,Over budget,Wire,-4694,1.0371188687582855,1,Normal,2026-05
+TXN-1143,2026-05-03,Sales,Office Supplies,Office Hub,3090,7685,Over budget,ACH,-4595,1.4870550161812297,1,Normal,2026-05
+TXN-1144,2026-05-08,Sales,Marketing,MarketWorks,5039,4721,Within budget,Wire,318,-0.06310775947608653,1,Normal,2026-05
+TXN-1145,2026-05-13,Sales,Professional Services,Advisory Partners,7986,3707,Within budget,Wire,4279,-0.5358126721763086,1,Normal,2026-05
+TXN-1146,2026-06-18,Sales,Utilities,City Power,6142,9717,Over budget,Wire,-3575,0.5820579615760338,1,Normal,2026-06
+TXN-1147,2026-06-23,Sales,Training,SkillPath,7571,7069,Within budget,Wire,502,-0.0663056399418835,1,Normal,2026-06
+TXN-1148,2026-06-01,Sales,Payroll,PayServe,5014,9368,Over budget,Wire,-4354,0.8683685680095732,1,Normal,2026-06
+TXN-1149,2026-06-06,Sales,Software,CloudSuite,5957,1167,Within budget,Corporate Card,4790,-0.8040960214873258,1,Normal,2026-06
+TXN-1150,2026-06-11,Sales,Travel,Metro Travel,2712,8376,Over budget,ACH,-5664,2.088495575221239,1,Normal,2026-06
+TXN-1151,2026-07-16,Sales,Office Supplies,Office Hub,6917,6274,Within budget,Corporate Card,643,-0.09295937545178545,1,Normal,2026-07
+TXN-1152,2026-07-21,Sales,Marketing,MarketWorks,1905,1201,Within budget,ACH,704,-0.3695538057742782,1,Normal,2026-07
+TXN-1153,2026-07-26,Sales,Professional Services,Advisory Partners,6539,5793,Within budget,ACH,746,-0.11408472243462303,1,Normal,2026-07
+TXN-1154,2026-07-04,Sales,Utilities,City Power,8101,6757,Within budget,ACH,1344,-0.1659054437723738,1,Normal,2026-07
+TXN-1155,2026-07-09,Sales,Training,SkillPath,1243,121,Within budget,Wire,1122,-0.9026548672566371,1,Normal,2026-07
+TXN-1156,2026-08-14,Sales,Payroll,PayServe,5782,4474,Within budget,Corporate Card,1308,-0.22621930127983397,1,Normal,2026-08
+TXN-1157,2026-08-19,Sales,Software,CloudSuite,895,8129,Over budget,Corporate Card,-7234,8.08268156424581,1,Normal,2026-08
+TXN-1158,2026-08-24,Sales,Travel,Metro Travel,6830,2909,Within budget,Wire,3921,-0.5740849194729136,1,Normal,2026-08
+TXN-1159,2026-08-02,Sales,Office Supplies,Office Hub,795,4516,Over budget,Corporate Card,-3721,4.680503144654088,1,Normal,2026-08
+TXN-1160,2026-08-07,Sales,Marketing,MarketWorks,8809,4356,Within budget,Corporate Card,4453,-0.5055057327733,1,Normal,2026-08
+TXN-1161,2026-09-12,Sales,Professional Services,Advisory Partners,1293,2973,Over budget,ACH,-1680,1.2993039443155452,1,Normal,2026-09
+TXN-1162,2026-09-17,Sales,Utilities,City Power,9025,9045,Over budget,Wire,-20,0.00221606648199446,1,Normal,2026-09
+TXN-1163,2026-09-22,Sales,Training,SkillPath,7538,7695,Over budget,Corporate Card,-157,0.020827805784027594,1,Normal,2026-09
+TXN-1164,2026-09-27,Sales,Payroll,PayServe,5588,1089,Within budget,ACH,4499,-0.8051181102362205,1,Normal,2026-09
+TXN-1165,2026-09-05,Sales,Software,CloudSuite,7366,9819,Over budget,Wire,-2453,0.3330165625848493,1,Normal,2026-09
+TXN-1166,2026-10-10,Sales,Travel,Metro Travel,7483,8659,Over budget,Wire,-1176,0.15715622076707203,1,Normal,2026-10
+TXN-1167,2026-10-15,Sales,Office Supplies,Office Hub,8904,2796,Within budget,ACH,6108,-0.6859838274932615,1,Normal,2026-10
+TXN-1168,2026-10-20,Sales,Marketing,MarketWorks,2385,8242,Over budget,ACH,-5857,2.4557651991614255,1,Normal,2026-10
+TXN-1169,2026-10-25,Sales,Professional Services,Advisory Partners,5554,1048,Within budget,ACH,4506,-0.8113071660064818,1,Normal,2026-10
+TXN-1170,2026-10-03,Sales,Utilities,City Power,895,9840,Over budget,ACH,-8945,9.994413407821229,-1,Review,2026-10
+TXN-1171,2026-11-08,Sales,Training,SkillPath,5799,6556,Over budget,ACH,-757,0.13053974823245387,1,Normal,2026-11
+TXN-1172,2026-11-13,Sales,Payroll,PayServe,1612,6403,Over budget,Wire,-4791,2.9720843672456576,1,Normal,2026-11
+TXN-1173,2026-11-18,Sales,Software,CloudSuite,5317,891,Within budget,Corporate Card,4426,-0.8324242994169645,1,Normal,2026-11
+TXN-1174,2026-11-23,Sales,Travel,Metro Travel,5387,8834,Over budget,Wire,-3447,0.6398737701874884,1,Normal,2026-11
+TXN-1175,2026-11-01,Sales,Office Supplies,Office Hub,4386,286,Within budget,Wire,4100,-0.9347925216598267,1,Normal,2026-11
+TXN-1176,2026-12-06,Sales,Marketing,MarketWorks,4919,2372,Within budget,Corporate Card,2547,-0.5177881683268957,1,Normal,2026-12
+TXN-1177,2026-12-11,Sales,Professional Services,Advisory Partners,7190,1409,Within budget,Corporate Card,5781,-0.8040333796940194,1,Normal,2026-12
+TXN-1178,2026-12-16,Sales,Utilities,City Power,7522,7650,Over budget,ACH,-128,0.01701675086413188,1,Normal,2026-12
+TXN-1179,2026-12-21,Sales,Training,SkillPath,4632,1952,Within budget,ACH,2680,-0.5785837651122625,1,Normal,2026-12
+TXN-1180,2026-12-26,Sales,Payroll,PayServe,5643,8968,Over budget,Corporate Card,-3325,0.5892255892255892,1,Normal,2026-12
+TXN-1181,2026-01-01,Human Resources,Training,SkillPath,420,733,Over budget,Wire,-313,0.7452380952380953,-1,Review,2026-01
+TXN-1182,2026-01-06,Human Resources,Payroll,PayServe,8776,8560,Within budget,Corporate Card,216,-0.024612579762989972,1,Normal,2026-01
+TXN-1183,2026-01-11,Human Resources,Software,CloudSuite,7043,565,Within budget,Wire,6478,-0.9197785034786312,1,Normal,2026-01
+TXN-1184,2026-01-16,Human Resources,Travel,Metro Travel,1718,2853,Over budget,Wire,-1135,0.6606519208381839,1,Normal,2026-01
+TXN-1185,2026-01-21,Human Resources,Office Supplies,Office Hub,910,3397,Over budget,ACH,-2487,2.732967032967033,1,Normal,2026-01
+TXN-1186,2026-02-26,Human Resources,Marketing,MarketWorks,1822,1759,Within budget,Corporate Card,63,-0.03457738748627882,1,Normal,2026-02
+TXN-1187,2026-02-04,Human Resources,Professional Services,Advisory Partners,9727,3191,Within budget,Corporate Card,6536,-0.671944073198314,1,Normal,2026-02
+TXN-1188,2026-02-09,Human Resources,Utilities,City Power,4552,7550,Over budget,Wire,-2998,0.6586115992970123,1,Normal,2026-02
+TXN-1189,2026-02-14,Human Resources,Training,SkillPath,7783,149,Within budget,Wire,7634,-0.9808557111653604,1,Normal,2026-02
+TXN-1190,2026-02-19,Human Resources,Payroll,PayServe,6317,8409,Over budget,Wire,-2092,0.3311698591103372,1,Normal,2026-02
+TXN-1191,2026-03-24,Human Resources,Software,CloudSuite,5682,8708,Over budget,Corporate Card,-3026,0.5325589581133404,1,Normal,2026-03
+TXN-1192,2026-03-02,Human Resources,Travel,Metro Travel,1441,3785,Over budget,Corporate Card,-2344,1.626648160999306,1,Normal,2026-03
+TXN-1193,2026-03-07,Human Resources,Office Supplies,Office Hub,9390,1562,Within budget,Corporate Card,7828,-0.8336528221512247,1,Normal,2026-03
+TXN-1194,2026-03-12,Human Resources,Marketing,MarketWorks,2991,6108,Over budget,Wire,-3117,1.0421263791374122,1,Normal,2026-03
+TXN-1195,2026-03-17,Human Resources,Professional Services,Advisory Partners,5737,1217,Within budget,ACH,4520,-0.7878682238103538,1,Normal,2026-03
+TXN-1196,2026-04-22,Human Resources,Utilities,City Power,6946,3710,Within budget,Corporate Card,3236,-0.46587964295997697,1,Normal,2026-04
+TXN-1197,2026-04-27,Human Resources,Training,SkillPath,6444,9744,Over budget,ACH,-3300,0.5121042830540037,1,Normal,2026-04
+TXN-1198,2026-04-05,Human Resources,Payroll,PayServe,9336,10120,Over budget,Wire,-784,0.08397600685518423,-1,Review,2026-04
+TXN-1199,2026-04-10,Human Resources,Software,CloudSuite,1473,7849,Over budget,Corporate Card,-6376,4.328581126951799,1,Normal,2026-04
+TXN-1200,2026-04-15,Human Resources,Travel,Metro Travel,5046,3161,Within budget,Corporate Card,1885,-0.3735632183908046,1,Normal,2026-04
+TXN-1201,2026-05-20,Human Resources,Office Supplies,Office Hub,4010,6991,Over budget,Corporate Card,-2981,0.7433915211970075,1,Normal,2026-05
+TXN-1202,2026-05-25,Human Resources,Marketing,MarketWorks,4706,7171,Over budget,Corporate Card,-2465,0.5237994050148747,1,Normal,2026-05
+TXN-1203,2026-05-03,Human Resources,Professional Services,Advisory Partners,1183,3943,Over budget,Wire,-2760,2.3330515638207947,1,Normal,2026-05
+TXN-1204,2026-05-08,Human Resources,Utilities,City Power,1331,6515,Over budget,Corporate Card,-5184,3.894815927873779,1,Normal,2026-05
+TXN-1205,2026-05-13,Human Resources,Training,SkillPath,2760,109,Within budget,Corporate Card,2651,-0.9605072463768116,1,Normal,2026-05
+TXN-1206,2026-06-18,Human Resources,Payroll,PayServe,3024,2125,Within budget,ACH,899,-0.29728835978835977,1,Normal,2026-06
+TXN-1207,2026-06-23,Human Resources,Software,CloudSuite,4247,5338,Over budget,ACH,-1091,0.25688721450435603,1,Normal,2026-06
+TXN-1208,2026-06-01,Human Resources,Travel,Metro Travel,6064,1665,Within budget,Corporate Card,4399,-0.7254287598944591,1,Normal,2026-06
+TXN-1209,2026-06-06,Human Resources,Office Supplies,Office Hub,6299,1687,Within budget,Wire,4612,-0.7321797110652485,1,Normal,2026-06
+TXN-1210,2026-06-11,Human Resources,Marketing,MarketWorks,4087,8502,Over budget,Wire,-4415,1.080254465378028,1,Normal,2026-06
+TXN-1211,2026-07-16,Human Resources,Professional Services,Advisory Partners,4057,10056,Over budget,Corporate Card,-5999,1.4786788267192508,1,Normal,2026-07
+TXN-1212,2026-07-21,Human Resources,Utilities,City Power,2160,5652,Over budget,Corporate Card,-3492,1.6166666666666667,1,Normal,2026-07
+TXN-1213,2026-07-26,Human Resources,Training,SkillPath,5839,8530,Over budget,Corporate Card,-2691,0.46086658674430553,1,Normal,2026-07
+TXN-1214,2026-07-04,Human Resources,Payroll,PayServe,3147,10068,Over budget,ACH,-6921,2.1992373689227835,1,Normal,2026-07
+TXN-1215,2026-07-09,Human Resources,Software,CloudSuite,358,1440,Over budget,ACH,-1082,3.022346368715084,-1,Review,2026-07
+TXN-1216,2026-08-14,Human Resources,Travel,Metro Travel,4153,4557,Over budget,Corporate Card,-404,0.09727907536720443,1,Normal,2026-08
+TXN-1217,2026-08-19,Human Resources,Office Supplies,Office Hub,4706,3991,Within budget,ACH,715,-0.15193370165745856,1,Normal,2026-08
+TXN-1218,2026-08-24,Human Resources,Marketing,MarketWorks,2239,814,Within budget,ACH,1425,-0.6364448414470746,1,Normal,2026-08
+TXN-1219,2026-08-02,Human Resources,Professional Services,Advisory Partners,5682,7679,Over budget,ACH,-1997,0.3514607532558958,1,Normal,2026-08
+TXN-1220,2026-08-07,Human Resources,Utilities,City Power,5616,4410,Within budget,ACH,1206,-0.21474358974358973,1,Normal,2026-08
+TXN-1221,2026-09-12,Human Resources,Training,SkillPath,6968,4771,Within budget,Corporate Card,2197,-0.31529850746268656,1,Normal,2026-09
+TXN-1222,2026-09-17,Human Resources,Payroll,PayServe,6431,1532,Within budget,Wire,4899,-0.7617788835328876,1,Normal,2026-09
+TXN-1223,2026-09-22,Human Resources,Software,CloudSuite,6476,1839,Within budget,Wire,4637,-0.7160284126003706,1,Normal,2026-09
+TXN-1224,2026-09-27,Human Resources,Travel,Metro Travel,3139,9222,Over budget,Corporate Card,-6083,1.9378783051927366,1,Normal,2026-09
+TXN-1225,2026-09-05,Human Resources,Office Supplies,Office Hub,7816,454,Within budget,Corporate Card,7362,-0.941914022517912,1,Normal,2026-09
+TXN-1226,2026-10-10,Human Resources,Marketing,MarketWorks,5451,2367,Within budget,ACH,3084,-0.565767749036874,1,Normal,2026-10
+TXN-1227,2026-10-15,Human Resources,Professional Services,Advisory Partners,4282,2969,Within budget,ACH,1313,-0.3066324147594582,1,Normal,2026-10
+TXN-1228,2026-10-20,Human Resources,Utilities,City Power,6214,4984,Within budget,Corporate Card,1230,-0.1979401351786289,1,Normal,2026-10
+TXN-1229,2026-10-25,Human Resources,Training,SkillPath,3580,5962,Over budget,Corporate Card,-2382,0.6653631284916202,1,Normal,2026-10
+TXN-1230,2026-10-03,Human Resources,Payroll,PayServe,5089,5015,Within budget,ACH,74,-0.014541167223423069,1,Normal,2026-10
+TXN-1231,2026-11-08,Human Resources,Software,CloudSuite,7312,855,Within budget,Corporate Card,6457,-0.8830689277899344,1,Normal,2026-11
+TXN-1232,2026-11-13,Human Resources,Travel,Metro Travel,8798,2477,Within budget,ACH,6321,-0.7184587406228689,1,Normal,2026-11
+TXN-1233,2026-11-18,Human Resources,Office Supplies,Office Hub,9142,8576,Within budget,ACH,566,-0.06191205425508641,1,Normal,2026-11
+TXN-1234,2026-11-23,Human Resources,Marketing,MarketWorks,4999,6482,Over budget,Wire,-1483,0.2966593318663733,1,Normal,2026-11
+TXN-1235,2026-11-01,Human Resources,Professional Services,Advisory Partners,5164,6599,Over budget,Corporate Card,-1435,0.2778853601859024,1,Normal,2026-11
+TXN-1236,2026-12-06,Human Resources,Utilities,City Power,7939,6814,Within budget,Corporate Card,1125,-0.1417055044715959,1,Normal,2026-12
+TXN-1237,2026-12-11,Human Resources,Training,SkillPath,3121,7756,Over budget,Wire,-4635,1.4851009291893624,1,Normal,2026-12
+TXN-1238,2026-12-16,Human Resources,Payroll,PayServe,8312,591,Within budget,Wire,7721,-0.9288979788257941,1,Normal,2026-12
+TXN-1239,2026-12-21,Human Resources,Software,CloudSuite,4905,3727,Within budget,Wire,1178,-0.24016309887869522,1,Normal,2026-12
+TXN-1240,2026-12-26,Human Resources,Travel,Metro Travel,1150,5485,Over budget,Corporate Card,-4335,3.7695652173913046,1,Normal,2026-12
